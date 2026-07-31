@@ -7,4 +7,5 @@ Home lab simulating a small Windows domain: Server 2022 DC running AD DS, DNS, a
 - **WIN10-CLIENT** - Windows 10., domain-joined to lab.local
 - **Linux VM** - Ubuntu
 ## Scenarios
-- [Password Reset - Domain Account](01-active-directory/password-reset.md) 
+- [Password Reset - Domain Account](01-active-directory/password-reset.md)
+- [New User provisioning - Darcy Smith](01-activedirectory/new-user-provisioning.md)
