@@ -10,3 +10,4 @@ Home lab simulating a small Windows domain: Server 2022 DC running AD DS, DNS, a
 - [Password Reset - Domain Account](01-active-directory/password-reset.md)
 - [New User provisioning - Darcy Smith](01-active-directory/new-user-provisioning.md)
 - [Account Lockout / Unlock](01-active-directory/account-lockout-unlock.md)
+- [User Offboarding - disable first then delete](01-active-directory/offboarding.md)
