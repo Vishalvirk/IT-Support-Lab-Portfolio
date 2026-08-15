@@ -21,7 +21,7 @@
 ## Screenshots
 
 
-![Setting changed to Enabled](images/gpo-controlpanel-enabled.png)
+![Setting changed to Enabled](images/controlpanel-enabled.png)
 
 ![gpresult confirming the GPO applied](images/gpresult-verify.png)
 
