@@ -13,5 +13,5 @@ Home lab simulating a small Windows domain: Server 2022 DC running AD DS, DNS, a
 - [Account Lockout / Unlock](01-active-directory/account-lockout-unlock.md)
 - [User Offboarding - disable first then delete](01-active-directory/offboarding.md)
 - [GPO - Control Panel Restriction](02-group-policy/gpo-controlpanel-restriction.md)
-- 
+- [GPO - Mapped Network Drive](02-group-policy/mapped-drive-gpo.md)
 
