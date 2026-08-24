@@ -15,3 +15,4 @@ Home lab simulating a small Windows domain: Server 2022 DC running AD DS, DNS, a
 - [GPO - Control Panel Restriction](02-group-policy/gpo-controlpanel-restriction.md)
 - [GPO - Mapped Network Drive](02-group-policy/mapped-drive-gpo.md)
 - [GPO - Password Policy](02-group-policy/password-policy-gpo.md)
+- [Remote Desktop (RDP) Session](04-remote-support/rdp-session.md
